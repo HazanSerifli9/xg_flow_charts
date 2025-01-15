@@ -31,4 +31,14 @@ Python scripts used for data processing and visualization.
 How to View the Charts
 
 # Brentford-Manchester City
+
 ![brentford_city](https://github.com/user-attachments/assets/79e5081d-89af-47cb-a91a-93099c037778)
+
+
+# Chealsea-Bournemouth
+
+![chelsea_bournemouth](https://github.com/user-attachments/assets/59d95441-7684-4c2f-9ec0-ebf42301bebc)
+
+#Nottingham Forrest-Liverpool
+
+![liverpook_forest](https://github.com/user-attachments/assets/98ee3cb1-ef31-4d3e-bc24-dcaba14b83ad)
