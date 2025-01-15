@@ -2,7 +2,7 @@
 
 This repository contains xG (expected goals) flow charts for three matches played in the EFL last night. xG flow charts are visual representations that show how expected goals accumulate over the course of a match. Each shot’s xG value is plotted on a timeline to give a clear picture of the ebb and flow of attacking opportunities.
 
-What is an xG Flow Chart?
+  What is an xG Flow Chart?
 
 An xG flow chart tracks the timeline of a match, displaying:
 
@@ -18,7 +18,7 @@ How evenly matched the teams were in terms of creating quality chances.
 
 Turning points in the match based on attacking output.
 
-Contents
+# Contents
 
 This repository includes:
 
@@ -28,7 +28,7 @@ Accompanying data files for each match.
 
 Python scripts used for data processing and visualization.
 
-How to View the Charts
+  How to View the Charts
 
 # Brentford-Manchester City
 
@@ -39,6 +39,6 @@ How to View the Charts
 
 ![chelsea_bournemouth](https://github.com/user-attachments/assets/59d95441-7684-4c2f-9ec0-ebf42301bebc)
 
-#Nottingham Forrest-Liverpool
+# Nottingham Forrest-Liverpool
 
 ![liverpook_forest](https://github.com/user-attachments/assets/98ee3cb1-ef31-4d3e-bc24-dcaba14b83ad)
